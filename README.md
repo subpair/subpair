@@ -1,3 +1,3 @@
 - 👋 Hello there, I’m Michael aka @subpair
-- 👀 I’m interested in Artifical Intelligence and coding in different languages.
+- 👀 I’m interested in Artificial Intelligence and coding in different languages.
 - 🌱 I’m currently learning Python and everything about AI.
